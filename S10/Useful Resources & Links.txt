@@ -1,0 +1,12 @@
+Useful Resources & Links
+Attached, you find the code snapshots for this module (you also find those attached to multiple lectures in the module).
+
+These resources might also be helpful
+
+Redux-thunk docs httpsgithub.comreduxjsredux-thunk#redux-thunk
+
+Redux docs httpsredux.js.orgadvancedasync-actions#async-action-creators
+
+https://reactnavigation.org/docs/en/navigation-prop.html#addlistener-subscribe-to-updates-to-navigation-lifecycle
+
+https://redux.js.org/advanced/async-actions#async-action-creators
