@@ -1,0 +1,12 @@
+Configuring Android Apps
+As shown earlier in the course (when adding native modules to non-Expo apps), you can manage certain aspects of your Android app with the AndroidManifest.xml file.
+
+There, you can configure three important things
+
+- The App name as it appears on the home screen httpsstackoverflow.comquestions5443304how-to-change-an-android-apps-name
+
+- The bundle identifier & package name of the app (also requires tweaking in other files) httpsdeveloper.android.comstudiobuildapplication-id
+
+- The permissions of the app httpsdeveloper.android.comguidetopicsmanifestmanifest-intro#perms
+
+You should also set an app version and change it with every app update. This is done in the build.gradle file, see httpsdeveloper.android.comstudiopublishversioning

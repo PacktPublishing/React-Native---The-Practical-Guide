@@ -1,0 +1,6 @@
+Useful Resources & Links
+Attached, you find the code snapshots for this module (you also find those attached to multiple lectures in the module).
+
+These resources might also be helpful
+
+More on JSON Web Tokens httpsjwt.io

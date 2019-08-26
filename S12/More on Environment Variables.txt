@@ -1,0 +1,35 @@
+More on Environment Variables
+In the previous lecture, we created a basic environment variables file (env.js).
+
+This basic file just exports a JS object - but you could get more fancy and for example export different environment variables for your development flow (i.e. for testing developing your app) and for production (i.e. for when you publish your app).
+
+The special __DEV__ global variable offered by Expo helps you - it's a variable which you can always access anywhere in your Expo-driven React Native project to determine whether you're running this app in development mode or not.
+
+Therefore, you could create a more elaborate environment variables file like this one
+
+env.js
+
+const variables = {
+    development {
+        googleApiKey 'abc'
+    },
+    production {
+        googleApiKey 'xyz'
+    }
+};
+ 
+const getEnvVariables = () = {
+    if (__DEV__) {
+        return variables.development;  return this if in development mode
+    }
+    return variables.production;  otherwise, return this
+};
+ 
+export default getEnvVariables;  export a reference to the function
+You would use that file like this
+
+someOtherFile.js
+
+import ENV from '.env';
+...
+const apiKey = ENV().googleApiKey;
