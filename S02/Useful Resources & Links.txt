@@ -1,0 +1,20 @@
+Useful Resources & Links
+Attached, you find the code snapshots for this module (you also find those attached to multiple lectures in the module).
+
+These links might also be helpful
+
+Official Docs httpsfacebook.github.ioreact-nativedocsgetting-started
+
+Overview of available Components & APIs httpsfacebook.github.ioreact-nativedocscomponents-and-apis
+
+Expo Docs httpsdocs.expo.ioversionslatest
+
+https://academind.com/learn/css/understanding-css/flexbox-basics-container/
+
+https://facebook.github.io/react-native/docs/flexbox
+
+https://academind.com/learn/react/react-hooks-introduction/
+
+https://reactjs.org/docs/hooks-intro.html
+
+https://facebook.github.io/react-native/docs/colors

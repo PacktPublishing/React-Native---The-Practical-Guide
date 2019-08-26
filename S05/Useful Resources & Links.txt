@@ -1,0 +1,8 @@
+Useful Resources & Links
+Attached, you find the code snapshots for this module (you also find those attached to multiple lectures in the module).
+
+These resources might also be helpful
+
+Dimensions API - Official Docs httpsfacebook.github.ioreact-nativedocsdimensions#docsNav
+
+Platform-specific Code - Official Docs httpsfacebook.github.ioreact-nativedocsplatform-specific-code
