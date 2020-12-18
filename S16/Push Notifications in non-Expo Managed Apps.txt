@@ -1,0 +1,6 @@
+Push Notifications in non-Expo Managed Apps
+You can still use Expo's powerful Push Notification services and features, even if you're NOT working in a managed Expo project.
+
+Detailed setup instructions can be found here: https://github.com/expo/expo/tree/master/packages/expo-notifications#installation-in-bare-react-native-projects
+
+Once configured and set up, you can work with push notifications just as shown in this module.
