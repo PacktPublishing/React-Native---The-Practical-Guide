@@ -1,8 +1,0 @@
-Useful Resources & Links
-These resources might be helpful
-
-Why Not Expo httpsdocs.expo.ioversionsv34.0.0introductionwhy-not-expo
-
-React Native Setup without Expo httpsfacebook.github.ioreact-nativedocsgetting-started#installing-dependencies
-
-https://academind.com/learn/flutter/react-native-vs-flutter-vs-ionic-vs-nativescript-vs-pwa/

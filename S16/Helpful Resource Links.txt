@@ -1,5 +1,0 @@
-These links might also be helpful:
-
-Expo Push Notification Guide: https://docs.expo.io/push-notifications/overview/
-
-Expo Push Notification API Docs: https://docs.expo.io/versions/latest/sdk/notifications/
