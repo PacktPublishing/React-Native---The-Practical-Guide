@@ -1,0 +1,3 @@
+Project Setup
+
+We'll execute the code examples with NodeJS, hence you should ensure that you have downloaded + installed that from https://nodejs.org/

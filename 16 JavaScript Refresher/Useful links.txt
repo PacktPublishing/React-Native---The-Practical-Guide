@@ -1,0 +1,18 @@
+Various JS tutorials
+https://academind.com/tutorials?filter=javascript
+
+MDN JavaScript Guide
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript
+
+Reference vs Primitive Values
+https://academind.com/tutorials/reference-vs-primitive-values
+
+Arrow functions and 'this'
+https://academind.com/tutorials/this-keyword-function-references
+
+Array and Array methods
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array#
+
+More on Constructor Functions
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/constructor
+

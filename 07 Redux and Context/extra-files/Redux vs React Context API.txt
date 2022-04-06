@@ -1,0 +1,2 @@
+Redux vs React Context API
+https://academind.com/tutorials/reactjs-redux-vs-context-api

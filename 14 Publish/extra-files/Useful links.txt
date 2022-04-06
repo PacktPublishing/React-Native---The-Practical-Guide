@@ -1,0 +1,9 @@
+iOS Launch Screen Guidelines
+https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/launch-screen/
+
+Adding an image to the Splash Screen
+https://justinnoel.dev/2019/02/19/adding-a-splash-screen-image-in-xcode/
+
+How to add an Android Splash Screen
+https://medium.com/viithiisys/android-perfect-way-to-create-splash-screen-ca3c5bee137f
+
